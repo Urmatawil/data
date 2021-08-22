@@ -8,7 +8,7 @@
           "location": "Twitch Channel",
           "date": "12/05/2021",
           "time": "22:00",
-          "player": "Urmatawil",
+          "player": "Urmatawil"
         },
         {
           "id": 123457,
@@ -18,7 +18,7 @@
           "location": "Twitch Channel",
           "date": "17/05/2021",
           "time": "23:00",
-          "player": "Urmatawil",
+          "player": "Urmatawil"
         },
         {
           "id": 123458,
@@ -28,6 +28,7 @@
           "location": "Twitch Channel",
           "date": "24/08/2021",
           "time": "16:00",
-          "player": "Urmatawil",
+          "player": "Urmatawil"
         }
-    ]}
+    ]
+}
