@@ -1,5 +1,5 @@
 {
-      events: [
+      events: 
         {
           id: 123456,
           category: "survival horror",
@@ -30,5 +30,4 @@
           time: "16:00",
           player: "Urmatawil",
         },
-      ],
     };
